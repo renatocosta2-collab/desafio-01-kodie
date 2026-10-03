@@ -83,12 +83,12 @@ A página foi testada para manter organização visual e evitar rolagem horizont
 
 ```text
 desafio-01-kodie/
-│
+
 ├── index.html
 ├── style.css
 └── README.md
 
-'''
+```
 
 ## Uso de Inteligência Artificial
 
